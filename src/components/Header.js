@@ -21,13 +21,14 @@ const Logo = styled.img`
   width: 60px;
   height: 60px;
   position: fixed;
-  right: 10vw; 
-  @media (max-width: 600px) {
-    width: 40px;
-    height: 40px;
-  }
+  right: 80px; 
   @media (min-width: 800px) {
     right: 10vw;
+  }
+  @media (max-width: 640px) {
+    width: 40px;
+    height: 40px;
+    right: 4rem;
   }
 `
 
@@ -35,7 +36,6 @@ export default function Header({ children }) {
   return (
     <Nav>
       <Brand to="/">Amarpreet Singh</Brand>
-      <Logo src="/Logo.svg" alt="hyumanamar"></Logo>
     </Nav>
   )
 }
