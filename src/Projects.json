@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Sikh Tab",
+        "description": "Chrome web extension",
+        "icon": "/sikhTab.svg",
+        "image": "/sikhTab.svg",
+        "url": "https://chrome.google.com/webstore/detail/sikh-tab/acnhpgiohpimpfcbmlelghhlcijpbpml",
+        "Tools": "Javascript",
+        "primaryColor": "#19191c",
+        "secondaryColor": "#dbd6ce"
+    },
+    {
+        "title": "Gitmeet",
+        "description": "Discover developers from Github who are in your city or country.",
+        "icon": "",
+        "image": "/gitmeet.png",
+        "url": "https://gfind.netlify.app/",
+        "Tools": "Javascript, React",
+        "primaryColor": "rgba(4, 23, 37, 0.9)",
+        "secondaryColor": "#1c9bf7"
+    },
+    {
+        "title": "Minimal Excel",
+        "description": "Minimal Excel sheet for note down of quick numbers in browser.",
+        "icon": "",
+        "image": "/excel.png",
+        "url": "https://amarmanhala.github.io/JustExcel/",
+        "Tools": "Javascript",
+        "primaryColor": "#001f10",
+        "secondaryColor": "#00ca61"
+    }
+]
