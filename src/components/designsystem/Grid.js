@@ -8,7 +8,7 @@ const Grid = styled.div`
     flex-wrap: wrap;
   }
   @media (min-width: 768px) {
-    flex-wrap: wrap;
+    justify-content: space-between;
   }
   @media (min-width: 1024px) {
     justify-content: space-between;

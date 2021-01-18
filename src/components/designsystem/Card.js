@@ -14,10 +14,12 @@ const Card = styled.div`
   min-height: 300px;
   padding: 2em;
   background-color: ${props => props.primaryColor};
-  border-radius: 1.5em;
-
+  border-radius: 1em;
   &:hover {
     cursor: pointer;
+  }
+  @media (max-width: 400px) {
+    min-height: 180px;
   }
 `
 const CardHeader = styled.div`
@@ -27,6 +29,9 @@ const CardHeader = styled.div`
 `
 const Title = styled.div`
   width: 70%;
+  @media (max-width: 400px) {
+   width: 100%;
+  }
 `
 const Icon = styled.div`
   display: none;
