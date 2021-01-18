@@ -10,7 +10,7 @@ export default function SEO() {
           name="description"
           content="The personal portfolio of Amarpreet Singh, a Front-end developer and UI designer."
         />
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@hyumanamar" />
         <meta name="twitter:creator" content="@hyumanamar" />
         <meta name="twitter:url" content="https://twitter.com/hyumanamar" />
