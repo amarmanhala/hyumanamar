@@ -22,6 +22,13 @@ export default function SEO() {
         <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="shortcut icon" href="/favicon.png" type="image/png" />
         <meta name="theme-color" content="#ffc600" />
+
+        <meta
+          property="og:title"
+          content="The personal portfolio of Amarpreet Singh, a Front-end developer and UI designer."
+        />
+        <meta property="og:image" content="../images/twitter-card.png" />
+        <meta property="og:url" content="https://www.hyumanamar.com/" />
       </Helmet>
     </>
   )
