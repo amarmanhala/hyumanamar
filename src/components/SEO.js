@@ -18,7 +18,7 @@ export default function SEO() {
           name="twitter:title"
           content="The personal portfolio of Amarpreet Singh, a Front-end developer and UI designer."
         />
-        <meta name="twitter:image" content="../images/twitter-card.png" />
+        <meta name="twitter:image" content="/twitter-card.png" />
         <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="shortcut icon" href="/favicon.png" type="image/png" />
         <meta name="theme-color" content="#ffc600" />
@@ -27,7 +27,7 @@ export default function SEO() {
           property="og:title"
           content="The personal portfolio of Amarpreet Singh, a Front-end developer and UI designer."
         />
-        <meta property="og:image" content="../images/ogportfolio.jpeg" />
+        <meta name="image" property="og:image" content="/ogportfolio.jpeg" />
         <meta property="og:url" content="https://www.hyumanamar.com/" />
       </Helmet>
     </>
