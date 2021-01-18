@@ -27,7 +27,7 @@ export default function SEO() {
           property="og:title"
           content="The personal portfolio of Amarpreet Singh, a Front-end developer and UI designer."
         />
-        <meta property="og:image" content="../images/twitter-card.png" />
+        <meta property="og:image" content="../images/ogportfolio.jpeg" />
         <meta property="og:url" content="https://www.hyumanamar.com/" />
       </Helmet>
     </>
