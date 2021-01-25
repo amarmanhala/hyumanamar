@@ -19,6 +19,16 @@
         "primaryColor": "rgba(4, 23, 37, 0.9)",
         "secondaryColor": "#1c9bf7"
     },
+     {
+        "title": "Hello Beats",
+        "description": "Collection of some really cool and hip hop beats.",
+        "icon": "",
+        "image": "/gitmeet.png",
+        "url": "https://hellobeats.netlify.app/",
+        "Tools": "Javascript, React",
+        "primaryColor": "#000",
+        "secondaryColor": "#1c9bf7"
+    },
     {
         "title": "Minimal Excel",
         "description": "Minimal Excel sheet for note down of quick numbers in browser.",
