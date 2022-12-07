@@ -8,6 +8,14 @@
         "secondaryColor": "#E6F2FB"
     },
     {
+        "title": "AXIA Capital Bank - Mobile App",
+        "description": "A Bank Made For The Blockchain",
+        "url": "https://apps.apple.com/ca/app/axia-capital-bank/id1627105580",
+        "Tools": "Javascript | React Native | Xcode | Ant design system
+        "primaryColor": "#266FD2",
+        "secondaryColor": "#E6F2FB"
+    },
+    {
         "title": "Sikh Tab",
         "description": "Chrome web extension",
         "icon": "/sikhTab.svg",
