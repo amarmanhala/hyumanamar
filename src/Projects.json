@@ -1,5 +1,15 @@
 [
     {
+        "title": "AXIA Capital Bank",
+        "description": "A Bank Made For The Blockchain",
+        "icon": "/sikhTab.svg",
+        "image": "/sikhTab.svg",
+        "url": "https://axiacapitalbank.com/",
+        "Tools": "Javascript | React | Redux | Postgres | Express | NodeJs | Third party API's",
+        "primaryColor": "#168FE1",
+        "secondaryColor": "#E6F2FB"
+    },
+    {
         "title": "Sikh Tab",
         "description": "Chrome web extension",
         "icon": "/sikhTab.svg",
