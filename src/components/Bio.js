@@ -13,7 +13,7 @@ export default function Bio() {
     <BioWrapper>
       <H1>
         Hi there, Amar is a Full-stack web developer and UI Engineer based in Toronto.
-        He spends his time writing code and designing and developing user interfaces to
+        He spends his time writing code and designing and developing creative and minimal user interfaces to
         crafting products for humans.
       </H1>
     </BioWrapper>
