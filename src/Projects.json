@@ -9,7 +9,7 @@
     },
     {
         "title": "AXIA Capital Bank",
-        "description": "A Bank Made For The Blockchain",
+        "description": "A Bank Made For The Blockchain. Associated with Fintelics",
         "url": "https://axiacapitalbank.com/",
         "Tools": "Javascript | React | Redux | Postgres | Express | NodeJs | Third party API's",
         "primaryColor": "#168FE1",
@@ -17,7 +17,7 @@
     },
     {
         "title": "AXIA Capital Bank - Mobile App",
-        "description": "A Bank Made For The Blockchain",
+        "description": "A Bank Made For The Blockchain. Associated with Fintelics",
         "url": "https://apps.apple.com/ca/app/axia-capital-bank/id1627105580",
         "Tools": "Javascript | React Native | Xcode | Ant design system",
         "primaryColor": "#266FD2",
