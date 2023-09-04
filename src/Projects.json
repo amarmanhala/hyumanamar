@@ -1,5 +1,13 @@
 [
     {
+        "title": "YouTube Clone",
+        "description": "A youtube clone built with JS, React, Redux and TailwindCSS",
+        "url": "https://youtube-chi-one.vercel.app/",
+        "Tools": "Javascript | React | Redux | TailwindCSS | YouTube API's",
+        "primaryColor": "#282828",
+        "secondaryColor": "#E6F2FB"
+    },
+    {
         "title": "AXIA Capital Bank",
         "description": "A Bank Made For The Blockchain",
         "url": "https://axiacapitalbank.com/",
